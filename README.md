@@ -4,14 +4,6 @@ This project evaluates and compares the performance of several private hospital 
 
 ---
 
-## 📁 Project Structure
-
-- `data/` – Raw Lighthouse scores and hospital info  
-- `results/` – Compiled performance results and screenshots  
-- `docs/` – Supporting references or report drafts  
-
----
-
 ## 🚀 Getting Started
 
 ### Requirements
